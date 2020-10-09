@@ -13,7 +13,7 @@ requirements = [
 
 setup(
     name='cakemail-openapi',
-    version='1.1.3',
+    version='1.1.7',
     description='OpenAPI generated client for Cakemail Next-gen API',
     python_requires='>=3.6',
     url='https://github.com/cakemail/cakemail-openapi-python',
