@@ -4,6 +4,7 @@ from __future__ import absolute_import
 
 # import apis into api package
 from cakemail_openapi.api.account_api import AccountApi
+from cakemail_openapi.api.automation_api import AutomationApi
 from cakemail_openapi.api.campaign_api import CampaignApi
 from cakemail_openapi.api.contact_api import ContactApi
 from cakemail_openapi.api.custom_attribute_api import CustomAttributeApi
